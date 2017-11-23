@@ -1,5 +1,5 @@
 # TensorFlOW
-A collection of trained machine learning models to detect HP bars in the game Overwatch. Images are all collected from the game myself.
+A collection of trained machine learning models to detect HP bars in the game Overwatch. Images were all collected from the game myself.
 
 Current trained models:
 - faster_rcnn_inception_v2
@@ -25,7 +25,7 @@ Current trained models:
 
 
 ## Models
-All models were trained using the TensorFlow object detection API.
+All models were trained using the TensorFlow object detection API. FPS was measured on a system with an i7-7700k and a GTX 1080.
 ### faster_rcnn_inception_v2
 Avg. detection FPS: 12
 
