@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>image92.png</filename>
+	<path>C:\Users\kevin\Desktop\training images\train\image92.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hpbar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>138</ymin>
+			<xmax>282</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

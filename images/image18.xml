@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>image18.png</filename>
+	<path>C:\Users\kevin\Desktop\training images\test\image18.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hpbar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>190</ymin>
+			<xmax>277</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

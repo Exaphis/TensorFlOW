@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_img</folder>
+	<filename>new_image0.png</filename>
+	<path>C:\Users\kevin\Desktop\new_img\new_image0.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hpbar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>121</ymin>
+			<xmax>226</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+</annotation>
