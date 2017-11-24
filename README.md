@@ -28,6 +28,7 @@ Current trained models:
 All models were trained using the TensorFlow object detection API. FPS was measured on a system with an i7-7700k and a GTX 1080.
 ### faster_rcnn_inception_v2
 Avg. detection FPS: 12
+MIN_SCORE_THRESH: 0.97
 
 Example 1: 
 
@@ -42,7 +43,8 @@ Example 3:
 ![Example 3](https://i.imgur.com/0rJxSTv.png)
 
 ### ssd_mobilenet_v1
-Avg. detection FPS: 30
+Avg. detection FPS: 52
+MIN_SCORE_THRESH: 0.6
 
 Example 1: 
 
